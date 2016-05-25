@@ -4,7 +4,9 @@ The script run_analysis.R utilizes the UCI HAR Dataset to create a tidy dataset 
 
 ## Requirements
 
-To run the script, you need the unzipped UCI HAR Dataset in your working directory.  Additionally, the package plyr must be installed for proper analysis.
+Prior to running the script, you need the unzipped UCI HAR Dataset in your working directory.  Additionally, the package plyr must be installed for proper analysis.
+
+There are no parameters required for the function so the command to run this script in R is simply run_analysis().
 
 ## Output
 
